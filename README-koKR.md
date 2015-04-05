@@ -21,6 +21,8 @@
 * [영어](https://github.com/bbatsov/rails-style-guide/blob/master/README.md)
 * [일본어](https://github.com/satour/rails-style-guide/blob/master/README-jaJA.md)
 * [터키어](https://github.com/tolgaavci/rails-style-guide/blob/master/README-trTR.md)
+* [한국어](https://github.com/wagurano/rails-style-guide/blob/translate_ko/README-koKR.md)
+
 
 # 레일스 스타일 가이드
 
