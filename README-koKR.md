@@ -1,6 +1,6 @@
 # 서문 
 
-> 롤 모델이 중요하다. <br/>
+> 롤 모델이 중요하다.<sup>[[주1](#remark-1)]</sup><br/>
 > -- 경찰관  알렉스 제이. 머피 / 로보캅
 
 지침(가이드)는 루비 온 레일스 4로 개발할 때 모범 사례와 
@@ -972,4 +972,27 @@
 우리는 가장 좋은 가이드를 원하지 않은가?
 
 감사합니다,<br/>
-[보즈히다르(Bozhidar)](https://twitter.com/bbatsov)
+[보지다르(Bozhidar)](https://twitter.com/bbatsov)
+
+* <a name="remark-1"></a>영화 대사 인용
+  * 영화 로보캅 (1987년 작품)에서 남자 주인공이 동료 경찰관에게 자기 아들이 본 경찰 드라마처럼 주인공이 악당을 제압하고 손가락에 총을 걸어 돌리는 모습을 따라한 후 마실 것을 건네주는 동료 경찰관에게 하는 말, 원문은 아래와 같다.
+    ````Text
+    As soon as some schmuck volunteers.
+    
+    Pretty fancy moves, Murphy.
+    
+    My son watches this cop show, TJ Lazer.
+    
+    Lazer does this whenever he kills a bad guy.
+    
+    - My kid thinks every good cop...
+    - You don't want to disappoint him.
+    
+    Yeah, well, role models can be
+    very important to a boy.
+    
+    Okay, I get a kick out of it.
+    ````
+  * 영화에서 경찰 드라마 제목이 T.J Lazer 이나 1980년대 드라마 T.J Hooker 를 패러디한 것이라고 한다. 국내 방영시 '후커와 로마노'라고 문화방송에서 양지운씨와 배한성씨가 목소리 출연하였다.
+  * 인터넷의 한국어 자막 파일에는 '남자에게 본보기는 중요한거야'라고 번역하였다. 아들에게 아빠의 모습이 영웅이나 우상처럼 보여지기를 바라는 마음이 보인다. 원문에는 중요하다는 'important' 가 있지만 "아들에게 (아빠라는) 우상이 필요하다" 또는 "(아빠는) 아들에게 우상으로 보이고 싶다"는 의미가 더 어울리지 않을까 생각한다. 여기서는 '그럴듯하게 흉내를 내보는 것도 좋다' 정도가 아닐까라고 생각이 들면서 '롤 모델'을 '본보기'라고 바꿀 수 있지만 '우상'이라고 하는 편이 좋아 보인다.
+  * 참고자료: <a href='http://movie-sounds.org/sci-fi-movie-samples/robocop-1987/yeah-well-role-models-can-be-very-important-to-a-boy'>음성 파일</a>, <a href='http://www.script-o-rama.com/movie_scripts/r/robocop-script-transcript-peter-weller.html'>영화 대본</a>
